@@ -9256,6 +9256,18 @@ p.white {
   padding-left: 10%;
   margin: 0cm 4cm 3cm 11cm;
 }
+input.form-control {
+  color: #333333;
+}
+span.error {
+  color: red;
+}
+.success {
+  color: #ff9966;
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+}
 .panel {
   width: 550px;
   margin-left: 200px;

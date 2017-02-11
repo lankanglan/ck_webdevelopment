@@ -16,21 +16,17 @@ $(function(){
 	});
 });
 
-var modal= document.getElementById('sendModal');
-var btn = document.getElementById('send');
-var span =document.getElementById('close');
-btn.onclick =function(){
-	modal.style.display ="block";
-	
-}
-span.onclick = function(){
-	modal.style.display ='none';
-}
-window.onclick = function(event){
-	if(event.target ==modal){
-		modal.style.display ='none';
-	}
+//responsive navbar
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
 };
+
+
 $('.circle').circleProgress({
     value: 0.75,
     size: 80,

@@ -1,0 +1,37 @@
+pie-progress-chart>
+  <client email="">
+    <project-name ="">
+    <project-owner="">
+    <progress-UXdesign = "%">
+    <progress-UIdesign = "%">
+    <progress-development = "%">
+    <progress-delivery = "%">
+  </client>    
+     
+   <client email="">
+    <client-name ="">
+    <project-name="">
+    <progress-UXdesign = "%">
+    <progress-UIdesign = "%">
+    <progress-development = "%">
+    <progress-delivery = "%">
+  </client>       
+ 
+  <client email="">
+     <clie<nt-name ="">
+    <project-name="">
+    <progress-UXdesign = "%">
+    <progress-UIdesign = "%">
+    <progress-development = "%">
+    <progress-delivery = "%">
+  </client>       
+  
+   <client email="" >
+     <client-name ="">
+     <project-name="">
+    <progress-UXdesign = "%">
+    <progress-UIdesign = "%">
+    <progress-development = "%">
+    <progress-delivery = "%">
+  </client>       
+</pie-progress-chart>
