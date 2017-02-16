@@ -1,5 +1,4 @@
 var gulp = require('gulp'),
-<<<<<<< .merge_file_BULqL6
 watch = require ('gulp-watch');
 
 gulp.task('styles',function(){
@@ -15,6 +14,4 @@ gulp.task('watch',function(){
 		gulp.start('styles');
 	});
 })
-=======
-watch = require ('gulp-watch');
->>>>>>> .merge_file_fTUe1l
+
