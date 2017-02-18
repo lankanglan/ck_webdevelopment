@@ -59,7 +59,8 @@
 }
 
 .description {
-	width: 52%;
+	margin-left: 5%;
+	width: 42%;
 	padding: 1em 1em;
 	font-size: 1.5em;
 	position: relative;
@@ -648,4 +649,51 @@
 	.no-csstransforms3d .tiltview.row {
 		top: 0;
 	}
+}
+/*! new */
+img.developer {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  z-index: 55;
+}
+li {
+  list-style: none;
+}
+.developerall{
+  text-align: left;
+  width: 94%;
+
+}
+.developd{
+   padding-left:10%; 
+}
+.social i{
+padding-left: 10px;
+  font-size: 70%;
+  text-align: left;
+  color: #989898;
+}
+.social i:hover{
+  color: #000000 !important;
+}
+
+.shortline {
+    margin-top: -60px !important;
+}
+p.text-center {
+    padding: 0 80px;
+}
+
+.text-center {
+    font-size: 28px;
+    text-align: center;
+    color: #556A3E;
+    padding-top: -20px;
+}
+.text-center span{
+    font-size: 20px;
+    text-align: center;
+    color: #556A3E;
+    font-weight: 400;
 }
