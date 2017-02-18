@@ -684,7 +684,10 @@ padding-left: 10px;
 p.text-center {
     padding: 0 80px;
 }
-
+#workstext{
+	text-align: left;
+	margin-left: 3%;
+}
 .text-center {
     font-size: 28px;
     text-align: center;

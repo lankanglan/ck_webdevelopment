@@ -9183,7 +9183,6 @@ span.glyphicon-send {
 .about-section {
   background-color: #ffffff;
   padding: 50px 0;
-  margin-top: 50px;
 }
 .contact-section {
   color: #ffffff;
@@ -9211,8 +9210,8 @@ button {
   background-color: #556A3E;
   float: left;
   position: relative;
-  right: -10%;
   padding: 10px 35px;
+  font-size: 16px !important;
 }
 #clients {
   text-align: center;
