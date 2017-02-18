@@ -9303,3 +9303,49 @@ img.developer {
   width: 50px;
   border-radius: 50%;
 }
+/*! new */
+img.developer {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  z-index: 55;
+}
+li {
+  list-style: none;
+}
+.developerall{
+  text-align: left;
+  width: 94%;
+
+}
+.developd{
+   padding-left:10%; 
+}
+.social i{
+padding-left: 10px;
+  font-size: 70%;
+  text-align: left;
+  color: #989898;
+}
+.social i:hover{
+  color: #000000 !important;
+}
+.description h4 {
+    font-size: 80%;
+    font-weight: 400;
+    text-align: left;
+    color: #556A3E;
+}
+.shortline {
+    margin-top: -80px !important;
+}
+p.text-center {
+    padding: 0 80px;
+}
+
+.text-center {
+    font-size: 28px;
+    text-align: center;
+    margin: -20px 0 30px 0;
+    color: #556A3E;
+}
